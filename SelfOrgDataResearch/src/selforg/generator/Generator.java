@@ -15,7 +15,7 @@ import java.io.FileOutputStream;
 import java.io.FileNotFoundException;
 
 //*******************************************************************************************
-//    Класс Generator 1.0 
+//    Класс Generator 1.0 (Branch testing) 
 //    Настройка плана генерации тестовых даннных 
 //    генерация данных
 //    генерация INSERT конструкции
